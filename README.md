@@ -1,4 +1,4 @@
-# Bike share demand
+# Bike share demand 🚴
 
 This repository is used for creating a machine leaning model that can accuratly forcast bike rental demand at ny hour in the day based on seasonal and environmental factors.
 
