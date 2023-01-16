@@ -5,6 +5,7 @@ This repository is used for creating a machine leaning model that can accuratly 
 ## Dataset
 
 The dataset is used is from a [Kaggle compition here]([https://link-url-here.org](https://www.kaggle.com/competitions/bike-sharing-demand/)).
+An EDA is included for this dataset to identify any feature extraction or extension possibilities to improve the models performance.
 
 ## Result
 
