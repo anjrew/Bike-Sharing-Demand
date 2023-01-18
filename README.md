@@ -4,7 +4,8 @@ This repository is used for creating a machine leaning model that can accurately
 
 ## Dataset
 
-The dataset is used is from a [Kaggle competition here]([https://link-url-here.org](https://www.kaggle.com/competitions/bike-sharing-demand/)).
+The dataset is used is from a [Kaggle competition here](https://www.kaggle.com/competitions/bike-sharing-demand).
+
 An EDA is included for this dataset to identify any feature extraction or extension possibilities to improve the models performance.
 
 ## Result
@@ -32,3 +33,11 @@ The development of the project happened in the following sequence
 6. Start Multi model Voting with scoring threshold
     - Set scoring threshold (informed Democracy)
 7. Start grid search on different feature selection configurations
+
+<br>
+
+---
+<br>
+
+## Correlation Matrix of features
+![Correlation](docs/correlation.png)
